@@ -13,7 +13,7 @@
 
    <div class="field">
   	 <%#= f.label :contactmethod %>
-    <%= f.radio_button :voted, 'yes', :checked => true %> Ya
+    <%= f.radio_button :voted, 'yes' %> Ya
     <%= f.radio_button :voted, 'no' %> Tidak   
   </div>
   <div class="field">

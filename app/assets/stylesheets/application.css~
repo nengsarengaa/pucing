@@ -17,7 +17,7 @@
 	}
 #pic {
   background-color: black;
-  padding-top: 20px;
+  padding-top: auto;
   position:absolute;
   color: white;
   width: 100%;
